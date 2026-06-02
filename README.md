@@ -1,7 +1,9 @@
 # Friends TV Show — Social Network Analysis
 
 **Course:** Social Network Analysis — Luiss Guido Carli
+
 **Team:** Sabina Nurseitova, Assima Amangeldina, Ziyi Dong, Ceyla Kaya
+
 **Type:** Network Analysis | Graph Theory | Team Project
 
 ---
